@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/section09/09-04-boards/new": "pages/section09/09-04-boards/new.js",
+  "/section09/09-02-board-component-new": "pages/section09/09-02-board-component-new.js"
+}
